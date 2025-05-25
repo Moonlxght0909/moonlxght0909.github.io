@@ -1,0 +1,8 @@
+portfolio-website/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── profile.jpg
+│   └── cv/
+│       └── Mihamad_Khoiron_CV.pdf
